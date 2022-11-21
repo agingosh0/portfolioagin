@@ -1,0 +1,39 @@
+.list{
+    text-align: left;
+    margin: 20px 80px;
+    display: inline-flex;
+    border: 2px solid rgb(29, 27, 27);
+    border-radius: 8px;
+    box-shadow: 0px 0px 9px rgb(22, 20, 20);
+    width: 300px;
+    padding: 20px;
+    background-image: url("https://wallpaperaccess.com/full/4787540.jpg");
+    background-size: cover;
+    color: rgb(240, 178, 6);
+
+    
+}
+.cert-btn{
+    padding-left: 40%;
+    padding-top: 70px;
+    padding-bottom: 50px;
+   
+}
+.head h1{
+    padding-left: 40%;
+    color: white;
+}
+.certificate {
+    padding-top: 100px;
+}
+.cert-btn button{
+    background-color: rgb(224, 29, 61);
+    padding: 20px 70px;
+    border: none;
+    border-radius: 20px;
+    color: white;
+}
+.cert-btn button:hover{
+    color: black;
+    cursor: pointer;
+}

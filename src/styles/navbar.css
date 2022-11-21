@@ -1,0 +1,31 @@
+.navmain{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-top: 10px;
+    background-color: rgb(29, 29, 29);
+}
+.links li{
+   list-style: none;
+   padding-right: 80px;
+}
+.links-1{
+    text-decoration: none;
+    color: white;
+    font-size: larger;
+}
+.links ul{
+    display: flex;
+    
+}
+.name h2{
+    color: white;
+}
+.navbar{
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.links-1:hover{
+    color: rgb(19, 225, 167);
+}

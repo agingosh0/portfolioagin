@@ -1,0 +1,17 @@
+.contact{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.contact-me h1{
+    color: white;
+    font-size: 60px;
+    padding-left: 20%;
+}
+.contact-me p{
+    color: grey;
+    font-size: 30px;
+}
+.contact-me a{
+    padding-left: 45px;
+}

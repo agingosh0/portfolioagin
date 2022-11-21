@@ -1,0 +1,11 @@
+.footer{
+    display: flex;
+    padding-left: 40%;
+    padding-bottom: 0;
+}
+.footer a{
+    text-decoration: none;
+    color: grey;
+    font-size: large;
+    padding-bottom: 0;
+}

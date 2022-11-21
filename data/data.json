@@ -1,0 +1,25 @@
+{
+    "detail": [
+        {
+            "name": "Name: Agin Gosh",
+            "institution": "College: CUSAT",
+            "qualification": "Degree: Bachelor Of Technology",
+            "passout" : "Passout Year: 2021",
+            "id":1
+        },
+        {
+            "name": "Name: Agin Gosh",
+            "institution": "School: Kendriya Vidyalaya",
+            "qualification": "Standard: 12th",
+            "passout" : "Passout Year: 2016",
+            "id":2
+        },
+        {
+            "name": "Name: Agin Gosh",
+            "institution": "School: Kendriya Vidyalaya",
+            "qualification": "Standard: 10th",
+            "passout" : "Passout Year:2014",
+            "id":3
+        }
+    ]
+}

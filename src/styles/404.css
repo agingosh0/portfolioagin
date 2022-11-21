@@ -1,0 +1,14 @@
+.error h2{
+    color: white;
+    font-size: 60px;
+    padding-left: 45%;
+}
+.error p{
+    color: grey;
+    padding-left: 41%;
+    font-size: 30px;
+}
+.error a{
+    padding-left: 46%;
+    color: aqua;
+}

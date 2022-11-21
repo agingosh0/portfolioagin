@@ -1,0 +1,67 @@
+.home-banner{
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.home-content h1{
+    color: white;
+}
+.home-content h4{
+    color: grey;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.home-content h4 b{
+    color: rgb(215, 50, 89);
+}
+.home-btn{
+    background-color: rgb(238, 13, 88);
+    color: white;
+    border: none;
+    padding: 20px 60px;
+    border-radius: 16px;
+    font-size: medium;
+    font-weight: bold;
+    cursor: pointer;
+}
+.home-btn:hover{
+    color: black;
+}
+.skill-main{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 100px;
+
+}
+.skills{
+    padding-top: 150px;
+}
+.heading{
+    color: white;
+    padding-left: 30%;
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+.skill-set h1{
+   color: white;
+   font-size: 60px;
+   font-family: sans-serif;
+   padding-left: 50px;
+}
+.skill-set li{
+    color: grey;
+    font-size: x-large;
+}
+/* .footer{
+    display: flex;
+    padding-left: 40%;
+}
+.footer a{
+    text-decoration: none;
+    color: grey;
+    font-size: large;
+} */
+.mail{
+    padding-left: 20px;
+}
